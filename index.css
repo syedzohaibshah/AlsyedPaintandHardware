@@ -78,6 +78,19 @@ h1{
   .cont{
     text-align: center;
   }
+  .products-img{
+  width: 150px;
+  height: 100px;
+}
+.logo-commander{
+
+  width: 300px;
+  height: 150px;
+}
+.logo-berger{
+  width: 350px;
+  height: 80px;
+}
 
 }
 
