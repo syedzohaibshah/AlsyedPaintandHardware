@@ -1,0 +1,159 @@
+body{
+
+margin: 0;
+padding: 0;
+font-size: 1rem;
+
+text-align: center;
+font-family: 'Poppins', sans-serif;
+overflow-x: hidden;
+
+
+}
+
+
+#home-section{
+
+background-color:#293462;
+
+}
+
+
+.kitty{
+  height: 450px;
+  width: 600px;
+}
+
+.navbar-brand {
+  color: rgb(255, 255, 255);
+  font-family: 'Alata', sans-serif;
+ text-transform: capitalize;
+  font-size: 1.2rem;
+  
+}
+.nav-item{
+  padding-left :30px;
+}
+
+.container-fluid{
+
+  padding: 2% 5%;
+}
+
+.homie{
+
+  text-align: left;
+  padding-top: 50px;
+
+}
+
+h1{
+
+  font-size: 4.9rem;
+  font-weight: bolder;
+  line-height: 1.3;
+  text-transform:capitalize;
+  color: rgb(255, 255, 255);
+
+}
+.nav{
+  color: white;
+}
+.roller{
+
+  height: 350px;
+  width: 450px;
+}
+
+@media(max-width:991px){
+
+  h1{
+    font-size: 3rem;
+    text-align: center;
+  }
+  .kitty{
+    width: 250px;
+    height: 200px;
+  }
+  .cont{
+    text-align: center;
+  }
+
+}
+
+.Paint{
+  width: 200px;
+  height: 150px;
+  border-radius: 5%;
+}
+
+#Services{
+  padding: 7% 4%;
+}
+h3{
+
+  padding: 8px 0;;
+}
+.Painter{
+height: 150px;
+width: 200px;
+}
+
+#products{
+padding: 4% 4%;
+  background-color: #3A5BA0;
+  color: white;
+}
+.logo-berger{
+  width: 500px;
+  height: 150px;
+}
+#our-partner{
+  padding: 5% 4%;
+}
+.kutta{
+  width: 100px;
+  height: 100px;
+  border-radius: 60%;
+}
+#testimonials{
+  background-color: #3A5BA0;
+  padding: 8% 3%;
+  color: white;
+}
+a{
+  display: block;
+  text-decoration: none;
+  color: rgb(5, 19, 39);
+  text-align: left;
+  padding: 5px 0;
+}
+.social{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+.products-img-tool{
+  width: 250px;
+  height: 200px;
+}
+
+.links{
+  text-align: center;
+}
+
+.footer{
+  text-align: center;
+}
+footer{
+  padding: 0;
+}
+
+.products-img-door{
+  width: 400px;
+  height: 250px;
+}
+#contacts{
+  padding: 5% 4%;
+}
