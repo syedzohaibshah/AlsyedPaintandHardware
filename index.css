@@ -118,16 +118,18 @@ padding: 4% 4%;
   color: white;
 }
 .products-img{
+
   height: 200px;
   width: 230px;
 }
 .logo-commander{
-  width: 500px;
-  height: 250px;
+
+  width: 300px;
+  height: 150px;
 }
 .logo-berger{
-  width: 500px;
-  height: 150px;
+  width: 350px;
+  height: 80px;
 }
 #our-partner{
   padding: 5% 4%;
